@@ -56,3 +56,10 @@ h1{
 .time p{
   margin-top: 10px;
 }
+
+@media only screen and (max-width: 600px) { /* styles here */ 
+.timebox{
+  flex-direction: column;
+}
+
+}
