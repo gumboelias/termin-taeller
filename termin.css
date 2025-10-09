@@ -1,0 +1,36 @@
+*{
+  padding: 0;
+  margin: 0;
+  box-sizing: border-box;
+  font-family: 'Poppins';
+}
+
+.hero{
+  height: 100vh;
+  background-color: #0096FF;
+  display: flex;
+  flex-direction: column;
+  align-items: center;
+  justify-content: center;
+  color: white;
+}
+
+h1{
+  font-size: 4rem;
+  font-weight: 500;
+  margin-bottom: 20px; 
+}
+
+.timebox{
+  display: flex;
+  gap: 90px;
+}
+
+.time{
+  text-align: center;
+}
+
+.time h2{
+  font-size: 5rem;
+  font-weight: 100;
+}
