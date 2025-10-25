@@ -6,7 +6,7 @@
 }
 
 body {
-  background: linear-gradient(#110053 100px, var(--color-primary) 700px, #FF7A05 1100px);
+  background: linear-gradient(#110053 100px, blue 700px, #FF7A05 1100px);
   padding: 0;
 }
 .hero{
