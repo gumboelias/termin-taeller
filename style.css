@@ -29,6 +29,11 @@ h1{
   text-align: center;
 }
 
+input {
+  margin: 30px;
+  padding: 10px;
+}
+
 .timebox{
   display: flex;
   flex-wrap: wrap;
