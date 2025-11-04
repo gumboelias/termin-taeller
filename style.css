@@ -10,7 +10,7 @@ body {
   padding: 0;
 }
 .hero{
-    height: 100vh;
+  height: 100vh;
   width: 100%; /* avoid 100vw which can cause horizontal overflow when scrollbars/safe-area are present */
   display: flex;
   flex-direction: column;
